@@ -10,6 +10,14 @@ El objetivo principal es evaluar el pipeline de integración de entornos 3D de a
 
 La escena está basada en **“The Smoking Room”**, un entorno interior altamente detallado. Representa un salón clásico de estilo vintage, con gran riqueza visual y cuidado en materiales e iluminación.
 
+#### Entorno Real
+
+
+![Vista del entorno](Assets/photos/realSmoking.jpg)
+
+
+
+
 Características principales:
 - Materiales realistas (madera, textiles, superficies reflectivas)
 - Alto nivel de detalle geométrico y decorativo
